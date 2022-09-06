@@ -1,2 +1,2 @@
 # GitHub
-For all things Git
+### For all things Git
