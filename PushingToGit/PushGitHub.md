@@ -6,19 +6,19 @@
 cd main_folder
 ```
 
-2.  Then, instruct the terminal to add your changes to the 'lobby', I guess..
+2.  Then, instruct the terminal to add your changes to the queue of 'tracked files' ready to be be çommitted'.
 
 ```shell
 git add -A
 ```
 
-3.  Now we want to 'committ' these changes. Not sure what it means, but this is step 3.
+3.  Now we want to 'commit' these changes, adding the file as a bulk checkpoint ready to be pushed to the remote git repository.
 
 ```shell
 git commit -m "made some changes"
 ```
 
-4.  Finally, we are to push the changes to the online repository;
+4.  Finally, we are to push the changes to the online repository, thereby uploading the changed files from the local git repository to the remote one, updating the remote files.
 
 ```shell
 git push origin main
