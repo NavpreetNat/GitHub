@@ -24,4 +24,6 @@ git commit -m "made some changes"
 git push origin main
 ```
 
-and.... VIOLA! You've now pushed some changes
+and.... VIOLA! You've now pushed some changes.
+
+High-five!
