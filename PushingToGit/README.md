@@ -8,7 +8,7 @@ cd main_folder
 
 ---
 
-2.  **Then, instruct the terminal to add your changes to the queue of 'tracked files' ready to be be çommitted'.**
+2.  **Then, instruct the terminal to add your changes to the queue of 'tracked files' ready to be be committed'.**
 
 ```shell
 git add -A
