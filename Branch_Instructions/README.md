@@ -25,7 +25,7 @@ git checkout firstname_lastname
 git branch
 ```
 
-*The terminal will then display which branch you're in by an asterix (*) besides the branch name in the terminal*
+*The terminal will then display which branch you're in by an asterix* (*) *besides the branch name in the terminal*
 
 ---
 
